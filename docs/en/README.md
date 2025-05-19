@@ -7,6 +7,17 @@ This project collects and organizes detailed information on various multimodal e
 
 ### General Embedding Models
 
+#### Text Embedding Models
+1. [Sentence Transformers Series](general_embedding/text_embedding/sentence_transformers_series/README.md)
+   - all-MiniLM-L6-v2
+
+2. [Linq Series](general_embedding/text_embedding/linq_series/README.md)
+   - Linq-Embed
+   - Linq-Embed-Mistral
+
+3. [BGE Series](general_embedding/text_embedding/bge_series/README.md)
+   - BGE
+
 #### Visual Embedding Models
 1. [ViT Series](general_embedding/visual_embedding/vit_series/README.md)
    - vit-base-patch16-224-in21k
@@ -40,6 +51,11 @@ For detailed information on each series, please refer to the README.md file in t
 .
 ├── docs/                     # Documentation directory
 │   ├── general_embedding/    # General embedding models
+│   │   ├── text_embedding/   # Text embedding models
+│   │   │   ├── sentence_transformers_series/  # Sentence Transformers series
+│   │   │   ├── linq_series/                   # Linq series
+│   │   │   └── bge_series/                    # BGE series
+│   │   │
 │   │   ├── visual_embedding/ # Visual embedding models
 │   │   │   ├── vit_series/   # ViT series
 │   │   │   └── dino_series/  # DINO series

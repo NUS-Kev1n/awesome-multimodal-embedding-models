@@ -10,6 +10,17 @@ Please select your preferred language above to view the documentation.
 
 ### 通用嵌入模型 (General Embedding Models)
 
+#### 文本嵌入模型 (Text Embedding Models)
+1. [Sentence Transformers系列](docs/en/general_embedding/text_embedding/sentence_transformers_series/README.md)
+   - all-MiniLM-L6-v2
+
+2. [Linq系列](docs/en/general_embedding/text_embedding/linq_series/README.md)
+   - Linq-Embed
+   - Linq-Embed-Mistral
+
+3. [BGE系列](docs/en/general_embedding/text_embedding/bge_series/README.md)
+   - BGE
+
 #### 视觉嵌入模型 (Visual Embedding Models)
 1. [ViT系列](docs/en/general_embedding/visual_embedding/vit_series/README.md)
    - vit-base-patch16-224-in21k
@@ -44,6 +55,11 @@ Please select your preferred language above to view the documentation.
 ├── docs/                     # 文档目录
 │   ├── en/                  # 英文文档
 │   │   ├── general_embedding/    # 通用嵌入模型
+│   │   │   ├── text_embedding/   # 文本嵌入模型
+│   │   │   │   ├── sentence_transformers_series/  # Sentence Transformers系列
+│   │   │   │   ├── linq_series/                   # Linq系列
+│   │   │   │   └── bge_series/                    # BGE系列
+│   │   │   │
 │   │   │   ├── visual_embedding/ # 视觉嵌入模型
 │   │   │   │   ├── vit_series/   # ViT系列
 │   │   │   │   └── dino_series/  # DINO系列
@@ -58,6 +74,11 @@ Please select your preferred language above to view the documentation.
 │   │
 │   └── zh/                  # 中文文档
 │       ├── general_embedding/    # 通用嵌入模型
+│       │   ├── text_embedding/   # 文本嵌入模型
+│       │   │   ├── sentence_transformers_series/  # Sentence Transformers系列
+│       │   │   ├── linq_series/                   # Linq系列
+│       │   │   └── bge_series/                    # BGE系列
+│       │   │
 │       │   ├── visual_embedding/ # 视觉嵌入模型
 │       │   │   ├── vit_series/   # ViT系列
 │       │   │   └── dino_series/  # DINO系列
