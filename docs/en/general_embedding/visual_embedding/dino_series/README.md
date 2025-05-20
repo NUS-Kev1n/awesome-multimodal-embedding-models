@@ -8,6 +8,15 @@
   - Patch feature: (256,384)
 - Hugging Face: [facebook/dinov2-small](https://huggingface.co/facebook/dinov2-small)
 - GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+- Code: [test_dinov2-small.py](./test_dinov2-small.py)
+- Output:
+```
+Feature extraction time: 1.9590 seconds
+GPU memory usage: 93.21 MB
+CLS features shape: torch.Size([1, 384])
+Patch features shape: torch.Size([1, 256, 384])
+Features extracted successfully
+```
 
 ## dinov2-base
 - Model: facebook/dinov2-base
@@ -16,7 +25,15 @@
   - Patch feature: (256,768)
 - Hugging Face: [facebook/dinov2-base](https://huggingface.co/facebook/dinov2-base)
 - GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
-
+- Code: [test_dinov2-base.py](./test_dinov2-base.py)
+- Output:
+```
+Feature extraction time: 2.0362 seconds
+GPU memory usage: 340.49 MB
+CLS features shape: torch.Size([1, 768])
+Patch features shape: torch.Size([1, 256, 768])
+Features extracted successfully
+```
 ## dinov2-large
 - Model: facebook/dinov2-large
 - Output embedding dimension:
