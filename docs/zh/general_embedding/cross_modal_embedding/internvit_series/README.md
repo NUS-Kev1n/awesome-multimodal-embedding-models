@@ -10,4 +10,4 @@
 
 Hugging Face：[OpenGVLab/InternViT-300M-448px-V2_5](https://huggingface.co/OpenGVLab/InternViT-300M-448px-V2_5)
 
-GitHub：[OpenGVLab/InternViT](https://github.com/OpenGVLab/InternViT) 
+GitHub：[OpenGVLab/InternViT](https://github.com/OpenGVLab/InternVL) ![](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social) 

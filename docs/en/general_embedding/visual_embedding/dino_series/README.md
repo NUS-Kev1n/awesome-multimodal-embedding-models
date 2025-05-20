@@ -14,7 +14,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/dinov2-small](https://huggingface.co/facebook/dinov2-small)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![](https://img.shields.io/github/stars/facebookresearch/dinov2.svg?style=social)
 
 Code: [test_dinov2-small.py](../../../../../code/general_embedding/visual_embedding/dino_series/test_dinov2-small.py)
 
@@ -39,7 +39,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/dinov2-base](https://huggingface.co/facebook/dinov2-base)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![](https://img.shields.io/github/stars/facebookresearch/dinov2.svg?style=social)
 
 Code: [test_dinov2-base.py](../../../../../code/general_embedding/visual_embedding/dino_series/test_dinov2-base.py)
 
@@ -64,7 +64,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/dinov2-large](https://huggingface.co/facebook/dinov2-large)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![](https://img.shields.io/github/stars/facebookresearch/dinov2.svg?style=social)
 
 ---
 
@@ -78,7 +78,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/dinov2-giant](https://huggingface.co/facebook/dinov2-giant)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![](https://img.shields.io/github/stars/facebookresearch/dinov2.svg?style=social)
 
 ---
 
@@ -94,7 +94,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino1b-full2b-224](https://huggingface.co/facebook/webssl-dino1b-full2b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -108,7 +108,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino2b-full2b-224](https://huggingface.co/facebook/webssl-dino2b-full2b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -122,7 +122,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino2b-light2b-224](https://huggingface.co/facebook/webssl-dino2b-light2b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -136,7 +136,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino2b-heavy2b-224](https://huggingface.co/facebook/webssl-dino2b-heavy2b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -150,7 +150,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino3b-light2b-224](https://huggingface.co/facebook/webssl-dino3b-light2b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -164,7 +164,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino3b-heavy2b-224](https://huggingface.co/facebook/webssl-dino3b-heavy2b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -178,7 +178,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino7b-full8b-224](https://huggingface.co/facebook/webssl-dino7b-full8b-224)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -192,7 +192,7 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino7b-full8b-378](https://huggingface.co/facebook/webssl-dino7b-full8b-378)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social)
 
 ---
 
@@ -206,4 +206,4 @@ Output embedding dimension:
 
 Hugging Face: [facebook/webssl-dino7b-full8b-518](https://huggingface.co/facebook/webssl-dino7b-full8b-518)
 
-GitHub: [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) 
+GitHub: [facebookresearch/webssl](https://github.com/facebookresearch/webssl) ![](https://img.shields.io/github/stars/facebookresearch/webssl.svg?style=social) 

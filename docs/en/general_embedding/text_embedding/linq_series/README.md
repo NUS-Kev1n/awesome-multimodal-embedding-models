@@ -2,16 +2,6 @@
 
 # Linq Series
 
-## Linq-Embed
-
-Model: Linq-Embed
-
-Output embedding dimension: 768
-
-Hugging Face: [Linq-Embed](https://huggingface.co/spaces/mteb/leaderboard)
-
----
-
 ## Linq-Embed-Mistral
 
 Model: Linq-AI-Research/Linq-Embed-Mistral

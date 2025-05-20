@@ -10,4 +10,4 @@
 
 Hugging Face：[google/siglip2-giant-opt-patch16-384](https://huggingface.co/google/siglip2-giant-opt-patch16-384)
 
-GitHub：[google-research/siglip](https://github.com/google-research/siglip) 
+GitHub：[google-research/siglip](https://github.com/google-research/big_vision) ![](https://img.shields.io/github/stars/google-research/big_vision.svg?style=social) 

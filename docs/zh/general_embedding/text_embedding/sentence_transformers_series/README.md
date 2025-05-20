@@ -10,4 +10,4 @@
 
 Hugging Face：[sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
-GitHub：[UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) 
+GitHub：[UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg?style=social) 
