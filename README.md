@@ -52,7 +52,26 @@ Please select your preferred language above to view the documentation.
 
 ```
 .
-├── docs/                     # 文档目录
+├── code/                    # 代码目录
+│   ├── general_embedding/   # 通用嵌入模型代码
+│   │   ├── text_embedding/  # 文本嵌入模型代码
+│   │   │   ├── sentence_transformers_series/  # Sentence Transformers系列代码
+│   │   │   ├── linq_series/                   # Linq系列代码
+│   │   │   └── bge_series/                    # BGE系列代码
+│   │   │
+│   │   ├── visual_embedding/ # 视觉嵌入模型代码
+│   │   │   ├── vit_series/   # ViT系列代码
+│   │   │   └── dino_series/  # DINO系列代码
+│   │   │
+│   │   └── cross_modal_embedding/ # 跨模态嵌入模型代码
+│   │       ├── siglip_series/    # SigLiP系列代码
+│   │       ├── internvit_series/ # InternViT系列代码
+│   │       └── gme_qwen_series/  # Gme-Qwen系列代码
+│   │
+│   └── special_embedding/   # 专用嵌入模型代码
+│       └── street/          # 街景专用模型代码
+│
+├── docs/                    # 文档目录
 │   ├── en/                  # 英文文档
 │   │   ├── general_embedding/    # 通用嵌入模型
 │   │   │   ├── text_embedding/   # 文本嵌入模型

@@ -1,5 +1,8 @@
-[EN](../en/README.md)|[ZH](README.md)
+[EN](../en/README.md) | [ZH](README.md)
+
 # 多模态嵌入模型总结
+
+请在上方选择您偏好的语言查看文档。
 
 本项目收集和整理了各种多模态嵌入模型的详细信息，包括模型规格、输出维度和使用说明等。
 
@@ -49,26 +52,65 @@
 
 ```
 .
-├── docs/                     # 文档目录
-│   ├── general_embedding/    # 通用嵌入模型
-│   │   ├── text_embedding/   # 文本嵌入模型
-│   │   │   ├── sentence_transformers_series/  # Sentence Transformers系列
-│   │   │   ├── linq_series/                   # Linq系列
-│   │   │   └── bge_series/                    # BGE系列
+├── code/                    # 代码目录
+│   ├── general_embedding/   # 通用嵌入模型代码
+│   │   ├── text_embedding/  # 文本嵌入模型代码
+│   │   │   ├── sentence_transformers_series/  # Sentence Transformers系列代码
+│   │   │   ├── linq_series/                   # Linq系列代码
+│   │   │   └── bge_series/                    # BGE系列代码
 │   │   │
-│   │   ├── visual_embedding/ # 视觉嵌入模型
-│   │   │   ├── vit_series/   # ViT系列
-│   │   │   └── dino_series/  # DINO系列
+│   │   ├── visual_embedding/ # 视觉嵌入模型代码
+│   │   │   ├── vit_series/   # ViT系列代码
+│   │   │   └── dino_series/  # DINO系列代码
 │   │   │
-│   │   └── cross_modal_embedding/ # 跨模态嵌入模型
-│   │       ├── siglip_series/    # SigLiP系列
-│   │       ├── internvit_series/ # InternViT系列
-│   │       └── gme_qwen_series/  # Gme-Qwen系列
+│   │   └── cross_modal_embedding/ # 跨模态嵌入模型代码
+│   │       ├── siglip_series/    # SigLiP系列代码
+│   │       ├── internvit_series/ # InternViT系列代码
+│   │       └── gme_qwen_series/  # Gme-Qwen系列代码
 │   │
-│   └── special_embedding/    # 专用嵌入模型
-│       └── street/           # 街景专用模型系列
+│   └── special_embedding/   # 专用嵌入模型代码
+│       └── street/          # 街景专用模型代码
 │
-└── README.md
+├── docs/                    # 文档目录
+│   ├── en/                  # 英文文档
+│   │   ├── general_embedding/    # 通用嵌入模型
+│   │   │   ├── text_embedding/   # 文本嵌入模型
+│   │   │   │   ├── sentence_transformers_series/  # Sentence Transformers系列
+│   │   │   │   ├── linq_series/                   # Linq系列
+│   │   │   │   └── bge_series/                    # BGE系列
+│   │   │   │
+│   │   │   ├── visual_embedding/ # 视觉嵌入模型
+│   │   │   │   ├── vit_series/   # ViT系列
+│   │   │   │   └── dino_series/  # DINO系列
+│   │   │   │
+│   │   │   └── cross_modal_embedding/ # 跨模态嵌入模型
+│   │   │       ├── siglip_series/    # SigLiP系列
+│   │   │       ├── internvit_series/ # InternViT系列
+│   │   │       └── gme_qwen_series/  # Gme-Qwen系列
+│   │   │
+│   │   └── special_embedding/    # 专用嵌入模型
+│   │       └── street/           # 街景专用模型系列
+│   │
+│   └── zh/                  # 中文文档
+│       ├── general_embedding/    # 通用嵌入模型
+│       │   ├── text_embedding/   # 文本嵌入模型
+│       │   │   ├── sentence_transformers_series/  # Sentence Transformers系列
+│       │   │   ├── linq_series/                   # Linq系列
+│       │   │   └── bge_series/                    # BGE系列
+│       │   │
+│       │   ├── visual_embedding/ # 视觉嵌入模型
+│       │   │   ├── vit_series/   # ViT系列
+│       │   │   └── dino_series/  # DINO系列
+│       │   │
+│       │   └── cross_modal_embedding/ # 跨模态嵌入模型
+│       │       ├── siglip_series/    # SigLiP系列
+│       │       ├── internvit_series/ # InternViT系列
+│       │       └── gme_qwen_series/  # Gme-Qwen系列
+│       │
+│       └── special_embedding/    # 专用嵌入模型
+│           └── street/           # 街景专用模型系列
+│
+└── README.md                # 项目主文档
 ```
 
 ## 评估指标

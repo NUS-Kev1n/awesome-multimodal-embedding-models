@@ -1,5 +1,8 @@
-[EN](README.md)|[ZH](../zh/README.md)
+[EN](README.md) | [ZH](../zh/README.md)
+
 # Summary of Multimodal Embedding Models
+
+Please select your preferred language above to view the documentation.
 
 This project collects and organizes detailed information on various multimodal embedding models, including model specifications, output dimensions, and usage instructions.
 
@@ -49,26 +52,65 @@ For detailed information on each series, please refer to the README.md file in t
 
 ```
 .
-├── docs/                     # Documentation directory
-│   ├── general_embedding/    # General embedding models
-│   │   ├── text_embedding/   # Text embedding models
-│   │   │   ├── sentence_transformers_series/  # Sentence Transformers series
-│   │   │   ├── linq_series/                   # Linq series
-│   │   │   └── bge_series/                    # BGE series
+├── code/                    # Code directory
+│   ├── general_embedding/   # General embedding model code
+│   │   ├── text_embedding/  # Text embedding model code
+│   │   │   ├── sentence_transformers_series/  # Sentence Transformers series code
+│   │   │   ├── linq_series/                   # Linq series code
+│   │   │   └── bge_series/                    # BGE series code
 │   │   │
-│   │   ├── visual_embedding/ # Visual embedding models
-│   │   │   ├── vit_series/   # ViT series
-│   │   │   └── dino_series/  # DINO series
+│   │   ├── visual_embedding/ # Visual embedding model code
+│   │   │   ├── vit_series/   # ViT series code
+│   │   │   └── dino_series/  # DINO series code
 │   │   │
-│   │   └── cross_modal_embedding/ # Cross-modal embedding models
-│   │       ├── siglip_series/    # SigLiP series
-│   │       ├── internvit_series/ # InternViT series
-│   │       └── gme_qwen_series/  # Gme-Qwen series
+│   │   └── cross_modal_embedding/ # Cross-modal embedding model code
+│   │       ├── siglip_series/    # SigLiP series code
+│   │       ├── internvit_series/ # InternViT series code
+│   │       └── gme_qwen_series/  # Gme-Qwen series code
 │   │
-│   └── special_embedding/    # Special embedding models
-│       └── street_clip_series/   # Street scene model series
+│   └── special_embedding/   # Special embedding model code
+│       └── street/          # Street scene model code
 │
-└── README.md
+├── docs/                    # Documentation directory
+│   ├── en/                  # English documentation
+│   │   ├── general_embedding/    # General embedding models
+│   │   │   ├── text_embedding/   # Text embedding models
+│   │   │   │   ├── sentence_transformers_series/  # Sentence Transformers series
+│   │   │   │   ├── linq_series/                   # Linq series
+│   │   │   │   └── bge_series/                    # BGE series
+│   │   │   │
+│   │   │   ├── visual_embedding/ # Visual embedding models
+│   │   │   │   ├── vit_series/   # ViT series
+│   │   │   │   └── dino_series/  # DINO series
+│   │   │   │
+│   │   │   └── cross_modal_embedding/ # Cross-modal embedding models
+│   │   │       ├── siglip_series/    # SigLiP series
+│   │   │       ├── internvit_series/ # InternViT series
+│   │   │       └── gme_qwen_series/  # Gme-Qwen series
+│   │   │
+│   │   └── special_embedding/    # Special embedding models
+│   │       └── street/           # Street scene model series
+│   │
+│   └── zh/                  # Chinese documentation
+│       ├── general_embedding/    # General embedding models
+│       │   ├── text_embedding/   # Text embedding models
+│       │   │   ├── sentence_transformers_series/  # Sentence Transformers series
+│       │   │   ├── linq_series/                   # Linq series
+│       │   │   └── bge_series/                    # BGE series
+│       │   │
+│       │   ├── visual_embedding/ # Visual embedding models
+│       │   │   ├── vit_series/   # ViT series
+│       │   │   └── dino_series/  # DINO series
+│       │   │
+│       │   └── cross_modal_embedding/ # Cross-modal embedding models
+│       │       ├── siglip_series/    # SigLiP series
+│       │       ├── internvit_series/ # InternViT series
+│       │       └── gme_qwen_series/  # Gme-Qwen series
+│       │
+│       └── special_embedding/    # Special embedding models
+│           └── street/           # Street scene model series
+│
+└── README.md                # Project main document
 ```
 
 ## Evaluation Metrics
